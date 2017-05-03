@@ -449,6 +449,7 @@
 				AEF28FF01B93DE2E00ED0DA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AEF28FF11B93DE2E00ED0DA3 /* Build configuration list for PBXNativeTarget "界面跳转DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -457,6 +458,7 @@
 				AEF28FF31B93DE2E00ED0DA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
