@@ -38,7 +38,7 @@
     [self goback];
 }
 - (void)jump{
-    [self jumpToViewController:WJCreatViewControllerInStoryBoard("ViewController", "main", "ViewController") params:@{@"age":@"1"} jumpOptions:WJVCtrlJumpWayModal];
+    [self jumpToViewController:WJCreatViewControllerInStoryBoard("ViewController", "Main", "ViewController") params:@{@"age":@"1"} jumpOptions:WJVCtrlJumpWayModal];
 }
 
 @end
